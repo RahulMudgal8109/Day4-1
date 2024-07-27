@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container
+{
+    width:300px;
+    height:300px;
+    background-color: rgb(243, 239, 235);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#calculate{
+    margin-top: 10px;
+}
